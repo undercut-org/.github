@@ -99,7 +99,7 @@ undercut/
 
 Undercut is currently in **public beta**. The app is live and usable, but you may encounter bugs or incomplete features. Development is ongoing and new updates ship regularly.
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/Zeikrom251/undercut/issues) — feedback is always welcome!
+Found a bug or have a suggestion? [Open an issue](https://github.com/Zeikrom251/undercut.click/issues) — feedback is always welcome!
 
 ---
 
