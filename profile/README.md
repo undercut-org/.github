@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/status-beta-F5D327?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/license-GPL--3.0-1a5c38?style=for-the-badge&labelColor=1a1a1a" />
 
   <br>
@@ -105,5 +104,5 @@ Found a bug or have a suggestion? [Open an issue](https://github.com/Zeikrom251/
 
 Built with ❤️ by [Ryan - Zeikrom](https://github.com/Zeikrom251)
 
-- 🌐 [undercut.click](https://www.undercut.click)
+- 🌐 [undercut.click](https://undercut.click)
 - 💬 Discord: [Join the server](https://discord.com/invite/7dm7MYMSSh)
